@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+uploadData.txt
+test.txt
